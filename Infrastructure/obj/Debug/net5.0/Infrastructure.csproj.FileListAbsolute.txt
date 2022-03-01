@@ -1,0 +1,17 @@
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
