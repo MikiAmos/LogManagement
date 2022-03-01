@@ -1,0 +1,12 @@
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/bin/Debug/net5.0/Domain.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Domain/obj/Debug/net5.0/Domain.pdb

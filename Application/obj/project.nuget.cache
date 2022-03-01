@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziWx4aUGyZcp6oqpM0U+BaK0PBKbw0ZnUsZzrbMHIh+rmkYhkENdHLkDoddqfX3+pL7Ju9AvxcvaU9oSUZde4g==",
+  "success": true,
+  "projectFilePath": "/Users/mikiamos/Desktop/WorkProjects/CynetTest/LogManagment/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikiamos/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/mikiamos/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
